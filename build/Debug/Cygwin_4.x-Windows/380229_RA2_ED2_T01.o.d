@@ -1,0 +1,4 @@
+build/Debug/Cygwin_4.x-Windows/380229_RA2_ED2_T01.o: 380229_RA2_ED2_T01.c \
+ 380229_RA2_ED2_T01.h
+
+380229_RA2_ED2_T01.h:
